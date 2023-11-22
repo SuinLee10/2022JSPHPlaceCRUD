@@ -9,35 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46b6993b-51e1-4f9e-99ac-2e7ffa06a08c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/bean/HPlaceVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dao/HPlaceDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addpost.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addpostform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/deletepost.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/editpost.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fileform.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fileupload.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/garbage.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/pen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/place.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/posts.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/HGU.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/bookshopsnail.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/gravy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/homigot.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/macaron_pohang.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload/spacewalk.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/view.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/jsphplacecrud/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/util/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="46b6993b-51e1-4f9e-99ac-2e7ffa06a08c" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,12 +293,25 @@
       <option name="presentableId" value="Default" />
       <updated>1700480630928</updated>
       <workItem from="1700480631923" duration="1739000" />
-      <workItem from="1700482441073" duration="46360000" />
+      <workItem from="1700482441073" duration="46706000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1700664040302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700664040302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
